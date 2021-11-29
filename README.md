@@ -1,7 +1,7 @@
 ### Olá! eu sou o Jander Oliveira 👋
 
 - 💻 Atualmente bolsista na Divisão de Tecnologia da Informação da UFC-Sobral
-- 💬 Me pergunte sobre fato curioso
+- 💬 Me pergunte sobre um fato curioso
 - 📫 Contate-me no email: janderoliveira083@gmail.com
 - 😄 Pronouns: Ele/Dele
 
