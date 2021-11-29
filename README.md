@@ -20,7 +20,7 @@
   ##
   
  <div> 
-  <img align="right" height="150em" alt="Jander-gif" src="https://cdn.discordapp.com/attachments/867480198039732236/914890246146117712/8ae826dba6a224dba3e49bf045583254.gif">
+  <img align="right" height="140em" alt="Jander-gif" src="https://cdn.discordapp.com/attachments/867480198039732236/914890246146117712/8ae826dba6a224dba3e49bf045583254.gif">
   <a href="https://instagram.com/jander00" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:janderoliveira083@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jander-oliveira-97b366209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
