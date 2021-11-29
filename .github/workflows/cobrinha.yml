@@ -1,4 +1,4 @@
- name: Jobs to update datas
+    name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
       # Summary Cards
